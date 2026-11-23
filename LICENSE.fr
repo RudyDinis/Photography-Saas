@@ -1,0 +1,33 @@
+LICENCE PROPRIÉTAIRE – TOUS DROITS RÉSERVÉS
+
+Copyright (c) 2026 Rudy Dinis. Tous droits réservés.
+
+Le présent projet, y compris son code source, ses fichiers, sa documentation
+et tout élément qui l'accompagne (le « Logiciel »), est la propriété exclusive
+de Rudy Dinis (le « Propriétaire »).
+
+Aucune licence, expresse ou implicite, n'est concédée par la présente.
+
+Sans l'autorisation écrite, préalable et explicite du Propriétaire, il est
+strictement interdit de :
+
+  1. utiliser le Logiciel, en tout ou partie, à quelque fin que ce soit,
+     personnelle, éducative, commerciale ou autre ;
+  2. copier, reproduire, télécharger, stocker ou dupliquer le Logiciel ;
+  3. modifier, adapter, traduire, décompiler, procéder à de l'ingénierie
+     inverse ou créer des œuvres dérivées à partir du Logiciel ;
+  4. distribuer, publier, partager, sous-licencier, louer, prêter ou
+     transférer le Logiciel à un tiers ;
+  5. monétiser le Logiciel, directement ou indirectement, notamment le vendre,
+     l'intégrer dans un produit ou un service payant, ou en tirer un revenu ;
+  6. utiliser le Logiciel ou son contenu pour entraîner, affiner ou alimenter
+     un système d'intelligence artificielle ou d'apprentissage automatique.
+
+Toute utilisation non autorisée constitue une atteinte aux droits d'auteur
+du Propriétaire et peut donner lieu à des poursuites civiles et pénales.
+
+LE LOGICIEL EST FOURNI « TEL QUEL », SANS GARANTIE D'AUCUNE SORTE, EXPRESSE
+OU IMPLICITE. LE PROPRIÉTAIRE NE SAURAIT ÊTRE TENU RESPONSABLE DE TOUT
+DOMMAGE LIÉ AU LOGICIEL OU À SON UTILISATION.
+
+Pour toute demande d'autorisation, contacter : Rudy Dinis.
